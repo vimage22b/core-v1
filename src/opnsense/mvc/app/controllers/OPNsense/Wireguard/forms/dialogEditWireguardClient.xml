@@ -41,7 +41,7 @@
         <type>select_multiple</type>
         <allownew>true</allownew>
         <help>List of networks allowed to pass through the tunnel adapter. Use CIDR notation like 10.0.0.0/24.</help>
-        <help>Client Address allowed to pass into the Tunnel address. Use CIDR notation like 10.0.0.2/32 and/or fdf9:x:x::2/128</help>
+        <help>Client Address allowed to pass into the Tunnel address. Use CIDR notation like 10.0.0.2/32 and/or 2001:db8:1::2/128</help>
     </field>
     <field>
         <id>client.serveraddress</id>
